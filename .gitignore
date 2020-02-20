@@ -1,0 +1,8 @@
+credentials-quickstart.json
+client_id.json
+my-readme.txt
+.vscode/settings.json
+.vscode/launch.json
+token.pickle
+env/*
+*.pyc
