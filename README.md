@@ -1,2 +1,15 @@
 # lk-scripts
 Project with scripts created to help me
+
+## prerequisites
+- GCP Project - Google Cloud Platform
+- Gmail API enabled on the GCP project
+- .json file credentials for GCP project
+
+## Using
+- Download the project
+- Add the GCP project's .json file with the Gmail API enabled at the project root
+- Add in the main.py file the senders you want to delete emails
+- Build an application
+- Give application permission
+- And ready
