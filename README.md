@@ -9,7 +9,7 @@ Project with scripts created to help me
 ## Using
 - Download the project
 - Add the GCP project's .json file with the Gmail API enabled at the project root
-- Add in the main.py file the senders you want to delete emails
+- Add in the gmail.py file the senders you want to delete emails
 - Build an application
 - Give application permission
 - And ready
